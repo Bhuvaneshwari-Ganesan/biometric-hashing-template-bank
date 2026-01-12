@@ -1,0 +1,8 @@
+flask
+gunicorn
+pymysql
+opencv-python-headless
+Pillow
+imagehash
+numpy
+
